@@ -3,7 +3,7 @@
 <br>
 
 -> O projeto é feito em React Native, é usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.<br>
--> A organização do código é estrturado no estilo padrão do React Native <br>
+-> A organização do código é estrurado no estilo padrão do React Native <br>
 
 <hr>
 <br>
